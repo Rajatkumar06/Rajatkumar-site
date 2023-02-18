@@ -1,2 +1,2 @@
-Hi my self Rajat Kumar  I am full time student at Fanshawe college and this is my frist portfolio. i want to become a best coder. 
-Thank you.
+# My  Portfolio
+welcome to my portfolio i learn html and css and want to make website through this.
